@@ -3,8 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 .idea/
+
 # Adding config.py file.
 api_keys.py
+
+#Adding DS_STore
+.DS_Store
+
+# Adding additional files as per README
 API_practice.ipynb
 random_numbers.ipynb
 # C extensions
