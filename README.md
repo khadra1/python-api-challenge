@@ -56,9 +56,7 @@ Now, let's use your skills working with weather data to plan future vacations. U
 
 To complete this part of the assignment, you will need to do the following:
 
-* Create a heat map that displays the humidity for every city from Part 1, as in the following image:
-
-  ![heatmap](Images/heatmap.png)
+* Create a heat map that displays the humidity for every city from Part 1
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
@@ -74,9 +72,7 @@ To complete this part of the assignment, you will need to do the following:
 
 * Use Google Places API to find the first hotel for each city located within 5,000 meters of your coordinates.
 
-* Plot the hotels on top of the humidity heatmap, with each pin containing the **Hotel Name**, **City**, and **Country**, as in the following image:
-
-  ![hotel map](Images/hotel_map.png)
+* Plot the hotels on top of the humidity heatmap, with each pin containing the **Hotel Name**, **City**, and **Country**
 
 As final considerations:
 
